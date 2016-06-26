@@ -1,0 +1,23 @@
+[baz]
+  type = "chicken"
+  [message]
+  message="Welcome to the official 1.9 multiplayer server!
+  Code of conduct for this server: http://coc.wesnoth.org
+  You may report abuse, rule violations, etc. via: /report (be sure to mention relevant nicks, etc.)
+  Consider registering your nick on the Wesnoth forums: http://forums.wesnoth.org
+  You can find replays of all observable games at: http://replays.wesnoth.org/1.9
+  Enjoy your stay!"
+  sender="server"
+  [/message]
+  [foo]
+    cheese = "1"
+    [faz]
+    [/faz]
+    language= "perl foobarbaz doodle"
+    quotes = "foo ""doo"" baz"
+    test = "foo = ""foobar"""
+  [/foo]
+[/baz]
+[foo]
+  type="bat"
+[/foo]
